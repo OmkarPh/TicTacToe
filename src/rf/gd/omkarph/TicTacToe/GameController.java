@@ -46,7 +46,7 @@ public class GameController {
 				
 				Stage newStage =new Stage();
 				Parent root = FXMLLoader.load(getClass().getResource("playVsHuman.fxml"));
-				Scene scene = new Scene(root,660,400);
+				Scene scene = new Scene(root,680,400);
 				newStage.setTitle("Playing V/S Player");
 				newStage.setScene(scene);
 				newStage.getIcons().add(new Image(GameController.class.getResourceAsStream("icon.png")));
@@ -63,7 +63,7 @@ public class GameController {
 		System.exit(1);
 	}
 	public void about() {
-		Alert aboutAlert = new Alert(AlertType.INFORMATION,"Developed by Omkar Phansopkar. \n Minimalist TicTacToe game, Have Fun :)");
+		Alert aboutAlert = new Alert(AlertType.INFORMATION,"Minimalist TicTacToe game, Have Fun :)  \n Developed by Omkar Phansopkar. \n Visit me at http://omkarph.rf.gd ");
 		aboutAlert.showAndWait();
 	}
 }

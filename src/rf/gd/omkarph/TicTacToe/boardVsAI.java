@@ -186,7 +186,7 @@ public class boardVsAI {
 		//System.out.println("Bye");
 	}
 	public void about() {
-		Alert aboutAlert = new Alert(AlertType.INFORMATION,"Developed by Omkar Phansopkar. \n Minimalist TicTacToe game, Have Fun :)");
+		Alert aboutAlert = new Alert(AlertType.INFORMATION,"Minimalist TicTacToe game, Have Fun :)  \n Developed by Omkar Phansopkar. \n Visit me at http://omkarph.rf.gd ");
 		aboutAlert.showAndWait();
 	}
 }

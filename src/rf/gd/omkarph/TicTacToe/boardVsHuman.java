@@ -97,6 +97,7 @@ public class boardVsHuman {
 		//System.out.println("Resetting the board.");
 	}
 	public void humanMove(ActionEvent event) {
+		workOutEmptyNames();
 		indexAbsolute = cellNo.get(event.getSource());
 		if(game.getChar(indexAbsolute-1) == ' ') {
 	        game.doMove(currentPlayer.getSymbol(), indexAbsolute-1);
@@ -189,7 +190,7 @@ public class boardVsHuman {
 		//System.out.println("Bye");
 	}
 	public void about() {
-		Alert aboutAlert = new Alert(AlertType.INFORMATION,"Developed by Omkar Phansopkar. \n Minimalist TicTacToe game, Have Fun :)");
+		Alert aboutAlert = new Alert(AlertType.INFORMATION,"Minimalist TicTacToe game, Have Fun :)  \n Developed by Omkar Phansopkar. \n Visit me at http://omkarph.rf.gd ");
 		aboutAlert.showAndWait();
 	}
 	
