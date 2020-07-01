@@ -12,7 +12,7 @@
    <center>
       <AnchorPane prefHeight="300.0" prefWidth="500.0" BorderPane.alignment="CENTER">
          <children>
-            <Label fx:id="welcomeLabel" alignment="CENTER" layoutX="92.0" layoutY="24.0" text="Welcome to TicTacToe" textFill="#2b9436">
+            <Label fx:id="welcomeLabel" alignment="CENTER" layoutX="92.0" layoutY="34.0" text="Welcome to TicTacToe" textFill="#2b9436">
                <font>
                   <Font name="System Italic" size="31.0" />
                </font>
@@ -41,6 +41,7 @@
                </font>
             </RadioButton>
             <Button layoutX="14.0" layoutY="255.0" mnemonicParsing="false" onAction="#exitApp" prefHeight="30.0" prefWidth="49.0" text="Exit" />
+            <Button layoutX="446.0" layoutY="5.0" mnemonicParsing="false" onAction="#about" text="About" />
          </children>
       </AnchorPane>
    </center>

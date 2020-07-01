@@ -10,6 +10,8 @@ public class HumanPlayer extends Player {
 
     int getMove(TicTacToe game)
     {
+    	return 0;
+    	/*
         int index;
         Scanner sc = new Scanner(System.in);
         while (true)
@@ -20,6 +22,7 @@ public class HumanPlayer extends Player {
                 return index - 1;
             System.out.println("Wrong Move");
         }
+        */
     }
 
 }
