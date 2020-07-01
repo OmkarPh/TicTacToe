@@ -7,7 +7,7 @@ Release version (Executable file):
 
 > [Download .exe from Google Drive](https://drive.google.com/file/d/15o8crdYCnff9DmVRW_48NDkpGByxXUOd/view?usp=sharing)
 
-  ( You migh't get warning from Windows Defender, since it's an unknown app, click on _More info_ and _Run anyway_ )
+  ( You might get warning from Windows Defender, since it's an unknown app, click on _More info_ and _Run anyway_ )
 
 
 Language & Framework
