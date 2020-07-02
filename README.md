@@ -2,14 +2,16 @@
 Play our favorite childhood game against your friends or an unbeatable AI (Minimax algorithm).
 No more description, You've played it a lot of times on last page of your books ;)
 
-Release version (Executable file):
-> [Download directly](https://github.com/OmkarPh/TicTacToe/raw/master/Release/TicTacToeApp.exe)
+Release version (Executable file) only for setups having JRE:
+> [Download directly)](https://github.com/OmkarPh/TicTacToe/raw/master/Release/TicTacToeApp.exe)
 
 > [Download .exe from Google Drive](https://drive.google.com/file/d/1lOSWaxJmenvaZcMxu3ii6f1cvZXdzyLd/view?usp=sharing)
 
   ( You might get warning from Windows Defender, since it's an unknown app, click on _More info_ and _Run anyway_ )
   ( You must have a Java Runtime environment equivalent/above jre 1.8 and below/equivalent to 11.0 )
 
+For setups without JRE, download this zip and run .exe file:
+> [TicTacToe bundled with jre8](https://drive.google.com/file/d/1HPSX_aSouLdOtgzK9Z3mM3CynE4ejtlO/view?usp=sharing)
 
 Language & Framework
   - Java
