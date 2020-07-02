@@ -5,9 +5,10 @@ No more description, You've played it a lot of times on last page of your books 
 Release version (Executable file):
 > [Download directly](https://github.com/OmkarPh/TicTacToe/raw/master/Release/TicTacToeApp.exe)
 
-> [Download .exe from Google Drive](https://drive.google.com/file/d/15o8crdYCnff9DmVRW_48NDkpGByxXUOd/view?usp=sharing)
+> [Download .exe from Google Drive](https://drive.google.com/file/d/1lOSWaxJmenvaZcMxu3ii6f1cvZXdzyLd/view?usp=sharing)
 
   ( You might get warning from Windows Defender, since it's an unknown app, click on _More info_ and _Run anyway_ )
+  ( You must have a Java Runtime environment equivalent/above jre 1.8 and below/equivalent to 11.0 )
 
 
 Language & Framework
