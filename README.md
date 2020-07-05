@@ -3,7 +3,7 @@ Play our favorite childhood game against your friends or an unbeatable AI (Minim
 No more description, You've played it a lot of times on last page of your books ;)
 
 Release version (Executable file) only for setups having JRE:
-> [Download directly)](https://github.com/OmkarPh/TicTacToe/raw/master/Release/TicTacToeApp.exe)
+> [Download directly](https://github.com/OmkarPh/TicTacToe/raw/master/Release/TicTacToeApp.exe)
 
 > [Download .exe from Google Drive](https://drive.google.com/file/d/1lOSWaxJmenvaZcMxu3ii6f1cvZXdzyLd/view?usp=sharing)
 
